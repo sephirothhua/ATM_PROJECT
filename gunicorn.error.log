@@ -1,0 +1,93 @@
+[2018-12-19 11:40:15 +0800] [2130] [INFO] Starting gunicorn 19.9.0
+[2018-12-19 11:40:15 +0800] [2130] [INFO] Listening at: http://0.0.0.0:8082 (2130)
+[2018-12-19 11:40:15 +0800] [2130] [INFO] Using worker: gevent
+[2018-12-19 11:40:15 +0800] [2133] [INFO] Booting worker with pid: 2133
+[2018-12-19 11:40:15 +0800] [2134] [INFO] Booting worker with pid: 2134
+[2018-12-19 11:49:15 +0800] [2134] [INFO] Worker reloading: /data/map/backend/settings/dev.py modified
+[2018-12-19 11:49:15 +0800] [2134] [INFO] Worker exiting (pid: 2134)
+[2018-12-19 11:49:15 +0800] [2133] [INFO] Worker reloading: /data/map/backend/settings/dev.py modified
+[2018-12-19 11:49:15 +0800] [2133] [INFO] Worker exiting (pid: 2133)
+[2018-12-19 11:49:15 +0800] [2891] [INFO] Booting worker with pid: 2891
+[2018-12-19 11:49:15 +0800] [2893] [INFO] Booting worker with pid: 2893
+[2018-12-19 11:50:23 +0800] [2891] [INFO] Worker reloading: /data/map/backend/settings/dev.py modified
+[2018-12-19 11:50:23 +0800] [2891] [INFO] Worker exiting (pid: 2891)
+[2018-12-19 11:50:23 +0800] [2893] [INFO] Worker reloading: /data/map/backend/settings/dev.py modified
+[2018-12-19 11:50:23 +0800] [2893] [INFO] Worker exiting (pid: 2893)
+[2018-12-19 11:50:23 +0800] [3016] [INFO] Booting worker with pid: 3016
+[2018-12-19 11:50:23 +0800] [3017] [INFO] Booting worker with pid: 3017
+[2018-12-19 11:50:51 +0800] [3017] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 11:50:51 +0800] [3017] [INFO] Worker exiting (pid: 3017)
+[2018-12-19 11:50:51 +0800] [3174] [INFO] Booting worker with pid: 3174
+[2018-12-19 13:41:19 +0800] [3016] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:41:19 +0800] [3016] [INFO] Worker exiting (pid: 3016)
+[2018-12-19 13:41:19 +0800] [8120] [INFO] Booting worker with pid: 8120
+[2018-12-19 13:41:19 +0800] [3174] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:41:19 +0800] [3174] [INFO] Worker exiting (pid: 3174)
+[2018-12-19 13:41:20 +0800] [8122] [INFO] Booting worker with pid: 8122
+[2018-12-19 13:48:25 +0800] [8120] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:48:25 +0800] [8120] [INFO] Worker exiting (pid: 8120)
+[2018-12-19 13:48:25 +0800] [8122] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:48:25 +0800] [8122] [INFO] Worker exiting (pid: 8122)
+[2018-12-19 13:48:25 +0800] [8514] [INFO] Booting worker with pid: 8514
+[2018-12-19 13:48:25 +0800] [8515] [INFO] Booting worker with pid: 8515
+[2018-12-19 13:48:43 +0800] [8514] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:48:43 +0800] [8514] [INFO] Worker exiting (pid: 8514)
+[2018-12-19 13:48:43 +0800] [8533] [INFO] Booting worker with pid: 8533
+[2018-12-19 13:49:00 +0800] [8515] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:49:00 +0800] [8515] [INFO] Worker exiting (pid: 8515)
+[2018-12-19 13:49:00 +0800] [8558] [INFO] Booting worker with pid: 8558
+[2018-12-19 13:49:42 +0800] [8533] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:49:42 +0800] [8533] [INFO] Worker exiting (pid: 8533)
+[2018-12-19 13:49:42 +0800] [8558] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:49:42 +0800] [8558] [INFO] Worker exiting (pid: 8558)
+[2018-12-19 13:49:42 +0800] [8611] [INFO] Booting worker with pid: 8611
+[2018-12-19 13:49:43 +0800] [8612] [INFO] Booting worker with pid: 8612
+[2018-12-19 13:54:20 +0800] [8611] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:54:20 +0800] [8611] [INFO] Worker exiting (pid: 8611)
+[2018-12-19 13:54:20 +0800] [9024] [INFO] Booting worker with pid: 9024
+[2018-12-19 13:54:33 +0800] [8612] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:54:33 +0800] [8612] [INFO] Worker exiting (pid: 8612)
+[2018-12-19 13:54:33 +0800] [9050] [INFO] Booting worker with pid: 9050
+[2018-12-19 13:55:13 +0800] [9024] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:55:13 +0800] [9024] [INFO] Worker exiting (pid: 9024)
+[2018-12-19 13:55:14 +0800] [9086] [INFO] Booting worker with pid: 9086
+[2018-12-19 13:55:55 +0800] [9050] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:55:55 +0800] [9050] [INFO] Worker exiting (pid: 9050)
+[2018-12-19 13:55:55 +0800] [9127] [INFO] Booting worker with pid: 9127
+[2018-12-19 13:59:24 +0800] [9127] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 13:59:24 +0800] [9127] [INFO] Worker exiting (pid: 9127)
+[2018-12-19 13:59:25 +0800] [9370] [INFO] Booting worker with pid: 9370
+[2018-12-19 14:00:53 +0800] [9086] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:00:53 +0800] [9086] [INFO] Worker exiting (pid: 9086)
+[2018-12-19 14:00:53 +0800] [9471] [INFO] Booting worker with pid: 9471
+[2018-12-19 14:00:53 +0800] [9370] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:00:53 +0800] [9370] [INFO] Worker exiting (pid: 9370)
+[2018-12-19 14:00:53 +0800] [9473] [INFO] Booting worker with pid: 9473
+[2018-12-19 14:00:58 +0800] [9471] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:00:59 +0800] [9471] [INFO] Worker exiting (pid: 9471)
+[2018-12-19 14:00:59 +0800] [9479] [INFO] Booting worker with pid: 9479
+[2018-12-19 14:01:11 +0800] [9473] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:01:11 +0800] [9473] [INFO] Worker exiting (pid: 9473)
+[2018-12-19 14:01:11 +0800] [9495] [INFO] Booting worker with pid: 9495
+[2018-12-19 14:01:26 +0800] [9479] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:01:26 +0800] [9479] [INFO] Worker exiting (pid: 9479)
+[2018-12-19 14:01:26 +0800] [9527] [INFO] Booting worker with pid: 9527
+[2018-12-19 14:01:54 +0800] [9527] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:01:55 +0800] [9527] [INFO] Worker exiting (pid: 9527)
+[2018-12-19 14:01:55 +0800] [9563] [INFO] Booting worker with pid: 9563
+[2018-12-19 14:01:55 +0800] [9495] [INFO] Worker reloading: /data/map/backend/urls.py modified
+[2018-12-19 14:01:55 +0800] [9495] [INFO] Worker exiting (pid: 9495)
+[2018-12-19 14:01:55 +0800] [9565] [INFO] Booting worker with pid: 9565
+[2018-12-19 14:06:24 +0800] [9565] [INFO] Worker reloading: /data/map/backend/api/views.py modified
+[2018-12-19 14:06:24 +0800] [9565] [INFO] Worker exiting (pid: 9565)
+[2018-12-19 14:06:24 +0800] [9563] [INFO] Worker reloading: /data/map/backend/api/views.py modified
+[2018-12-19 14:06:24 +0800] [9563] [INFO] Worker exiting (pid: 9563)
+[2018-12-19 14:06:24 +0800] [9827] [INFO] Booting worker with pid: 9827
+[2018-12-19 14:06:24 +0800] [9828] [INFO] Booting worker with pid: 9828
+[2018-12-19 14:08:54 +0800] [9827] [INFO] Worker reloading: /data/map/backend/api/views.py modified
+[2018-12-19 14:08:54 +0800] [9827] [INFO] Worker exiting (pid: 9827)
+[2018-12-19 14:08:54 +0800] [9943] [INFO] Booting worker with pid: 9943
+[2018-12-19 15:29:53 +0800] [2130] [INFO] Handling signal: quit
+[2018-12-19 15:29:53 +0800] [9943] [INFO] Worker exiting (pid: 9943)
+[2018-12-19 15:29:53 +0800] [9828] [INFO] Worker exiting (pid: 9828)
+[2018-12-19 15:29:53 +0800] [2130] [INFO] Shutting down: Master

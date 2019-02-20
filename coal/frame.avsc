@@ -1,0 +1,12 @@
+{
+	"namespace": "gh.frame.avro",
+	"type": "record",
+	"name": "Frame",
+	"fields": [
+		{"name": "rtsp", "type": "string"},
+		{"name": "createTime", "type": "string"},
+		{"name": "videoName", "type": "string"},
+		{"name": "videoNumber",  "type": "int"},
+		{"name": "picContents", "type": "bytes"}
+	]
+}

@@ -1,0 +1,3 @@
+pip3 install avro-python3
+pip3 install opencv-python
+coal/detection/gh_rfcn_python/gh_rfcn_python_interface 需要setup进行安装

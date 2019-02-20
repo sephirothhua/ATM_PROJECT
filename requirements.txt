@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework_jwt
+gunicorn
+dj_database_url
+opencv-python
+avro-python3
